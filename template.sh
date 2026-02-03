@@ -11,6 +11,6 @@ touch setup.py
 touch app.py
 touch research/trials.ipynb
 touch requirements.txt
-
+touch .gitignore
 
 echo "Directory and files created successfully"
